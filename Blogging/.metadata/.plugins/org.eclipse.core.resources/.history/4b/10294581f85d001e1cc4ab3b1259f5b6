@@ -1,0 +1,37 @@
+package com.deep;
+
+import java.util.Arrays;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
+
+public class Practice {
+
+	public static void main(String[] args) {
+		
+		
+//		List<String> list = Arrays.asList("Deepanshu", "Vidyanshu", "Priyanshu", "Subhadra", "Pradeep");
+//		
+//		
+//		List<String> list2 = list.stream().filter((e -> e.endsWith("u"))).collect(Collectors.toList());
+//		
+//		
+//		System.out.println(list2);
+		
+		
+		List<Integer> li = List.of(12, 41, 13, 55, 65);
+
+		List<Integer> list = li.stream().map(e -> e*e).collect(Collectors.toList());
+		
+		
+		System.out.println(list);
+		
+		
+	}
+	
+	
+	
+	
+	
+}

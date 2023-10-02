@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<typeInfoHistroy>
+    <typeInfo handle="=blog-app-apis/C:\/Users\/91701\/.m2\/repository\/org\/hibernate\/orm\/hibernate-core\/6.2.7.Final\/hibernate-core-6.2.7.Final.jar=/maven.pomderived=/true=/=/maven.groupId=/org.hibernate.orm=/=/maven.artifactId=/hibernate-core=/=/maven.version=/6.2.7.Final=/=/maven.scope=/compile=/=/maven.pomderived=/true=/&lt;org.hibernate.dialect(MySQL8Dialect.class[MySQL8Dialect" modifiers="1048609" timestamp="1693242839589"/>
+    <typeInfo handle="=blog-app-apis/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.deep.blog.services{UserService.java[UserService" modifiers="513" timestamp="1694519720435"/>
+</typeInfoHistroy>
